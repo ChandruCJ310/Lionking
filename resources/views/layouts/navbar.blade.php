@@ -111,7 +111,7 @@
 
 .nav-menu li a:hover {
     background-color: #00509e;
-    border-radius: 5px;
+    border-radius: 6px;
 }
 
 @media (max-width: 768px) {

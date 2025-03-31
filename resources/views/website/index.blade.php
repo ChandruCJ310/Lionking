@@ -15,7 +15,7 @@
 /* Main Content Layout */
 .container {
     display: flex;
-    max-width: 1200px;
+    max-width: 1400px;!important
     gap: 20px;
 }
 
@@ -278,7 +278,7 @@
 
     </style>
 {{-- Code Section --}}
-    <div class="container" >
+    <div class="container" style="max-width: 1400px;">
         <!-- Left Column: Birthday, Events Calendar, and Ad Containers -->
         <div class="left">
             <div class="scroll-container">

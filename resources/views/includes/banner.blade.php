@@ -12,7 +12,7 @@
 
     .top-ad-banner
   {
-      background-color: #ffffff;
+      background-color: #ffffff00;
       color: #003366;
       font-weight: bold;
       text-align: center;
@@ -54,7 +54,7 @@
       width: 100%; /* Full width for each ad banner */
       padding: 20px;
       text-align: center;
-      background-color: #f1f1f1;
+      background-color: #f1f1f100;
       border: 1px solid #ddd;
     }
 
@@ -145,7 +145,7 @@
 
 
 .details-container {
-  background-color: #fff;
+  background-color: #ffffff00;
   padding: 6px;
   border-radius: 5px;
   width: 100%;
